@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/will-you-be-my-valentine/static/css/main.9dea3a6d.css",
-    "main.js": "/will-you-be-my-valentine/static/js/main.d984cd03.js",
+    "main.css": "/will-you-be-my-valentine/static/css/main.2662252d.css",
+    "main.js": "/will-you-be-my-valentine/static/js/main.0a10bad5.js",
     "static/js/592.8a4be97d.chunk.js": "/will-you-be-my-valentine/static/js/592.8a4be97d.chunk.js",
     "index.html": "/will-you-be-my-valentine/index.html",
-    "main.9dea3a6d.css.map": "/will-you-be-my-valentine/static/css/main.9dea3a6d.css.map",
-    "main.d984cd03.js.map": "/will-you-be-my-valentine/static/js/main.d984cd03.js.map",
+    "main.2662252d.css.map": "/will-you-be-my-valentine/static/css/main.2662252d.css.map",
+    "main.0a10bad5.js.map": "/will-you-be-my-valentine/static/js/main.0a10bad5.js.map",
     "592.8a4be97d.chunk.js.map": "/will-you-be-my-valentine/static/js/592.8a4be97d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dea3a6d.css",
-    "static/js/main.d984cd03.js"
+    "static/css/main.2662252d.css",
+    "static/js/main.0a10bad5.js"
   ]
 }
