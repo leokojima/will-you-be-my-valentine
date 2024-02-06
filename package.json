@@ -1,8 +1,14 @@
 {
   "name": "will-you-be-my-valentine",
   "version": "0.1.0",
-  "homepage": "https://leokojima.github.io/will-you-be-my-valentine",
   "private": true,
+  "repository": "https://github.com/leokojima/will-you-be-my-valentine",
+  "homepage": "https://leokojima.github.io/will-you-be-my-valentine",
+  "author": {
+    "name": "leo",
+    "email": "leokojima92@gmail.com",
+    "url": "https://github.com/leokojima/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
