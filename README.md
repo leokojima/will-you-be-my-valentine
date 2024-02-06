@@ -1,15 +1,9 @@
 # Will you be my Valentine?
 
-![:cupid:](https://github.githubassets.com/images/icons/emoji/unicode/1f498.png?v8)
-
-Create a demo react app for your special one! :cupid: and she/he will be like...
+Create a demo react app for your special one! :cupid:
+She/He will be like...
 
 ![Happy Cat Happy Happy Cat Gif](https://tenor.com/mSGv6iwzuI1.gif)
-
-
-Continuing
-
-
 
 
 # Getting Started with Create React App
