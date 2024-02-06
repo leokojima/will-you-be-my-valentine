@@ -3,8 +3,7 @@
 Create a demo react app for your special one! :cupid:
 She/He will be like...
 
-<img alt="Happy Cat Happy Happy Cat Gif" src="https://media.tenor.com/lCKwsD2OW1kAAAAi/happy-cat-happy-happy-cat.gif" width="200" height="200"/>
-<img alt="Excited Spin Cat Gif" src="https://media1.tenor.com/m/aKFaZBrZFYcAAAAC/excited-spin.gif" width="250" height="200"/>
+<img alt="Happy Cat Happy Happy Cat Gif" src="https://media.tenor.com/lCKwsD2OW1kAAAAi/happy-cat-happy-happy-cat.gif" width="200" height="200"/><img alt="Excited Spin Cat Gif" src="https://media1.tenor.com/m/aKFaZBrZFYcAAAAC/excited-spin.gif" width="250" height="200"/>
 
 # Getting Started with Create React App
 
