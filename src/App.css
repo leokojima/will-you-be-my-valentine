@@ -1,34 +1,32 @@
-/* Make responsive for mobile */
-@media (max-width: 768px) {
-  body {
-      padding: 0 20px;
-  }
+html {
+  background-image: url(https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1707177600&semt=ais);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
+img {
+  max-width: 100%;
 }
 
 .valentine-container {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-size: 30px;
+  font-size: large;
   font-family: 'Great Vibes';
-  justify-content: center;
 }
 
 .button {
-  align-items: center;
   border: none;
-  border-radius: 1rem;
-  box-sizing: border-box;
+  border-radius: .7rem;
   color: white;
   cursor: pointer;
-  flex-direction: row;
-  flex-wrap: wrap;
   height: auto;
   justify-content: center;
   justify-items: auto;
-  margin: 0 10px;
-  min-height: 40px;
-  min-width: 55px;
+  margin: 0% .5rem;
+  max-width: fit-content;
   padding: .5rem 1rem;
 }
 
@@ -41,6 +39,7 @@
 }
 
 #yay {
+  font-size: 300%;
   font-weight: bold;
-  margin: 30px;
+  margin: 10%;
 }
