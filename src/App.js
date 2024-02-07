@@ -21,6 +21,7 @@ function App() {
       {yesPressed ? (
         <>
           <img alt='bear kissing panda' src={IMAGES.gifBearKissingPanda} />
+
           <div id='yay'>Yay!!!</div>
         </>
       ) : (
@@ -28,6 +29,7 @@ function App() {
           <img alt='bear jumping with roses' src={IMAGES.gifBearJumpingWithRoses} />
 
           <div className='valentine-question'>
+
             <h1>Will you be my Valentine?</h1>
 
             <div className='valentine-buttons'>
@@ -46,6 +48,7 @@ function App() {
                 onClick={handleNoClick}
               >{getNoButtonText()}</button>
             </div>
+
           </div>
         </>
       )}

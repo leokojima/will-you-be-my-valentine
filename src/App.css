@@ -5,6 +5,7 @@ html, body, #root, .valentine-container {
 
 html {
   background-image: url("./resources/images/background-pink-hearts.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -13,14 +14,25 @@ img {
   max-width: 100%;
 }
 
+h1 {
+  margin: 0;
+}
+
 .valentine-container, .valentine-question {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
   font-size: 3.5vw;
   font-family: 'Great Vibes';
+}
+
+.valentine-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 3%;
 }
 
 .button {
@@ -30,6 +42,7 @@ img {
   color: white;
   margin: 0% .5rem;
   padding: .5rem 1rem;
+  font-size: calc(5px + .5em);
 }
 
 #yesButton {
