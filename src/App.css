@@ -1,20 +1,25 @@
+html, body, #root, .valentine-container {
+  margin: 0;
+  height: 100%;
+}
+
 html {
-  background-image: url(https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1707177600&semt=ais);
+  background-image: url("./resources/images/background-pink-hearts.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100%;
 }
 
 img {
-  max-width: 60%;
+  max-height: 60%;
+  max-width: 100%;
 }
 
-.valentine-container {
+.valentine-container, .valentine-question {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 
-  font-size: large;
+  font-size: 3.5vw;
   font-family: 'Great Vibes';
 }
 
@@ -36,7 +41,7 @@ img {
 }
 
 #yay {
-  font-size: 300%;
+  font-size: 8vw;
   font-weight: bold;
-  margin: 5%;
+  margin: 8vh;
 }

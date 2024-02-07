@@ -27,15 +27,15 @@ function App() {
         <>
           <img alt='bear jumping with roses' src={IMAGES.gifBearJumpingWithRoses} />
 
-          {/* <div> */}
-            <h1 className='valentine-question'>Will you be my Valentine?</h1>
+          <div className='valentine-question'>
+            <h1>Will you be my Valentine?</h1>
 
             <div className='valentine-buttons'>
               <button
                 type='button'
                 className='button'
                 id='yesButton'
-                style={{ fontSize: yesButtonSize }}
+                style={{fontSize: yesButtonSize}}
                 onClick={() => setYesPressed(true)}
               >Yes</button>
 
@@ -46,7 +46,7 @@ function App() {
                 onClick={handleNoClick}
               >{getNoButtonText()}</button>
             </div>
-          {/* </div> */}
+          </div>
         </>
       )}
     </div>
