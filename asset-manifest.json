@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/will-you-be-my-valentine/static/css/main.8d2fe617.css",
+    "main.css": "/will-you-be-my-valentine/static/css/main.883bb1d8.css",
     "main.js": "/will-you-be-my-valentine/static/js/main.00fef2a9.js",
     "static/js/592.8a4be97d.chunk.js": "/will-you-be-my-valentine/static/js/592.8a4be97d.chunk.js",
     "static/media/bear-jumping-with-roses.gif": "/will-you-be-my-valentine/static/media/bear-jumping-with-roses.7e3461deac3bdf0a5fa6.gif",
     "static/media/bear-kissing-panda.gif": "/will-you-be-my-valentine/static/media/bear-kissing-panda.0379327cb970a7abe43a.gif",
     "static/media/background-pink-hearts.jpg": "/will-you-be-my-valentine/static/media/background-pink-hearts.6a4db7fd3b5f9d1420b1.jpg",
     "index.html": "/will-you-be-my-valentine/index.html",
-    "main.8d2fe617.css.map": "/will-you-be-my-valentine/static/css/main.8d2fe617.css.map",
+    "main.883bb1d8.css.map": "/will-you-be-my-valentine/static/css/main.883bb1d8.css.map",
     "main.00fef2a9.js.map": "/will-you-be-my-valentine/static/js/main.00fef2a9.js.map",
     "592.8a4be97d.chunk.js.map": "/will-you-be-my-valentine/static/js/592.8a4be97d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d2fe617.css",
+    "static/css/main.883bb1d8.css",
     "static/js/main.00fef2a9.js"
   ]
 }
