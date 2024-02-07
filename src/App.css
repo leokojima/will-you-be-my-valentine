@@ -10,7 +10,7 @@ html {
 }
 
 img {
-  max-height: 60%;
+  max-height: 50%;
   max-width: 100%;
 }
 
@@ -42,7 +42,7 @@ h1 {
   color: white;
   margin: 0% .5rem;
   padding: .5rem 1rem;
-  font-size: calc(5px + .5em);
+  font-size: 15px;
 }
 
 #yesButton {

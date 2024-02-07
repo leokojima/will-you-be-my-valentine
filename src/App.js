@@ -6,10 +6,11 @@ import './App.css';
 function App() {
   const [noCount, setNoCount] = useState(0);
   const [yesPressed, setYesPressed] = useState(false);
-  const yesButtonSize = Math.min(14 * (noCount + 1), 180);
+  const [yesButtonSize, setYesButtonSize] = useState(15);
 
   function handleNoClick() {
     setNoCount(noCount + 1);
+    setYesButtonSize(Math.min(yesButtonSize * 1.2, 150));
   }
 
   function getNoButtonText() {
