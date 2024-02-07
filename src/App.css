@@ -6,27 +6,24 @@ html {
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
 }
 
 .valentine-container {
-  align-items: center;
   display: flex;
   flex-direction: column;
+  align-items: center;
+
   font-size: large;
   font-family: 'Great Vibes';
 }
 
 .button {
+  cursor: pointer;
   border: none;
   border-radius: .7rem;
   color: white;
-  cursor: pointer;
-  height: auto;
-  justify-content: center;
-  justify-items: auto;
   margin: 0% .5rem;
-  max-width: fit-content;
   padding: .5rem 1rem;
 }
 
@@ -41,5 +38,5 @@ img {
 #yay {
   font-size: 300%;
   font-weight: bold;
-  margin: 10%;
+  margin: 5%;
 }

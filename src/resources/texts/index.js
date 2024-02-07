@@ -1,0 +1,27 @@
+const PHRASES = [
+    "No",
+    "Are you sure?",
+    "Like... really sure?",
+    "Surely that was a mistake lol",
+    "Como vc é boba",
+    "진짜 너무 예뻐요!",
+    "Don't do this to me",
+    "I'm gonna cry...",
+    "Bubu, you're breaking my heart ;(",
+    "Do you not like Giraffon?",
+    "BE MY VALENTINE GAWD D*MMIT",
+    "Just click 'Yes'",
+    "You're being ridiculous",
+    "Vou peidar na sua cara",
+    "There is no other option",
+    "This is not a democracy",
+    "You are MINE!!!",
+    "Rage is over",
+    "I'm sorry",
+    "Hmmm! (pinching your butt)",
+    "Keep being 괜찮아",
+    "Even though life is 시발새끼야!",
+    "내 발렌타인이 되어줘, 공주님",
+]
+
+export default PHRASES;
