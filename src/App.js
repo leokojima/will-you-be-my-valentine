@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import AUDIOS from './resources/audios'
 import IMAGES from './resources/images'
 import PHRASES from './resources/texts'
 import './App.css';
@@ -21,12 +22,16 @@ function App() {
     <div className='valentine-container'>
       {yesPressed ? (
         <>
+          <audio controls autoplay loop src={AUDIOS.untilIFoundYou} />
+
           <img alt='bear kissing panda' src={IMAGES.gifBearKissingPanda} />
 
           <div id='yay'>Yay!!!</div>
         </>
       ) : (
         <>
+          <audio controls autoplay loop src={AUDIOS.heyLover} />
+
           <img alt='bear jumping with roses' src={IMAGES.gifBearJumpingWithRoses} />
 
           <div className='valentine-question'>
