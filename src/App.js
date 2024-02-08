@@ -25,7 +25,7 @@ function App() {
         <>
           <Confetti />
 
-          <audio controls autoplay loop src={AUDIOS.untilIFoundYou} />
+          <audio controls autoPlay loop src={AUDIOS.untilIFoundYou} />
 
           <img alt='bear kissing panda' src={IMAGES.gifBearKissingPanda} />
 
@@ -33,7 +33,7 @@ function App() {
         </>
       ) : (
         <>
-          <audio controls autoplay loop src={AUDIOS.heyLover} />
+          <audio controls autoPlay loop src={AUDIOS.heyLover} />
 
           <img alt='bear jumping with roses' src={IMAGES.gifBearJumpingWithRoses} />
 
