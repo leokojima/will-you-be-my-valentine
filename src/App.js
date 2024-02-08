@@ -3,7 +3,7 @@ import { useState } from 'react';
 import AUDIOS from './resources/audios';
 import IMAGES from './resources/images';
 import PHRASES from './resources/texts';
-import Confetti from './Confetti';
+import Confetti from './components/Confetti';
 
 function App() {
   const [noCount, setNoCount] = useState(0);
