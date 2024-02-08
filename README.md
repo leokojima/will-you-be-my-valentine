@@ -1,7 +1,5 @@
 # Will you be my Valentine?
 
-Hosted by Github Pages @ [https://leokojima.github.io/will-you-be-my-valentine](https://leokojima.github.io/will-you-be-my-valentine)
-
 Create a demo react app for your special one! :cupid:\
 He/She will be like...
 
