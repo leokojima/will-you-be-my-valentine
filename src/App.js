@@ -1,8 +1,9 @@
-import { useState } from 'react';
-import AUDIOS from './resources/audios'
-import IMAGES from './resources/images'
-import PHRASES from './resources/texts'
 import './App.css';
+import { useState } from 'react';
+import AUDIOS from './resources/audios';
+import IMAGES from './resources/images';
+import PHRASES from './resources/texts';
+import Confetti from './Confetti';
 
 function App() {
   const [noCount, setNoCount] = useState(0);
@@ -22,6 +23,8 @@ function App() {
     <div className='valentine-container'>
       {yesPressed ? (
         <>
+          <Confetti />
+
           <audio controls autoplay loop src={AUDIOS.untilIFoundYou} />
 
           <img alt='bear kissing panda' src={IMAGES.gifBearKissingPanda} />
