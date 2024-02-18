@@ -12,7 +12,7 @@ function App() {
 
   function handleNoClick() {
     setNoCount(noCount + 1);
-    setYesButtonSize(Math.min(yesButtonSize * 1.2, 150));
+    setYesButtonSize(Math.min(yesButtonSize + 5, 150));
   }
 
   function getNoButtonText() {
